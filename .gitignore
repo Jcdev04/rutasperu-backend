@@ -1,2 +1,5 @@
 # Entorno virtual
 venv/
+# Archivos de claves privadas
+service_key.json
+service_key_principal.json
